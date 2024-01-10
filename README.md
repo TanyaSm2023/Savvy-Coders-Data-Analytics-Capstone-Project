@@ -51,7 +51,7 @@ For categorizing credit balance debt, I created a new column named 'Installment 
 ### Total Balances Over Time
 The debt initially decreased from 700 billion to 550 billion during the pandemic, but from 2021 to 2022, there was an upturn, reaching 640 billion, and exceeding 750 billion by 2023.<br>
 
-![Alt text](<Images\1 Total balance.jpg>)
+![Alt text](<Images/1%20Total%20balance.jpg)>)
 
 ![Alt text](<Images\2 Percentage Change in Total Balances (Q4 Only) Over Time.jpg>)
 
