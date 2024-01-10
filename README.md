@@ -39,7 +39,9 @@ SAPCE2 Per capita personal consumption expenditures (PCE) by major type of produ
 ### Data Processing Steps
 
 **Python**: I performed data cleaning on the first dataset, which contains credit card debt information. The initial analysis aimed to gain general insights into the data, including details such as the number of rows and columns, values, data types, and identification of any missing values. During this process, I removed unneeded rows containing common information and unnecessary columns using the DROP method. 
+
 Additionally, I cleaned the data by eliminating symbols like '$', '%', and commas, and changed the data type from 'object' to 'float'.<br>
+
 For categorizing credit balance debt, I created a new column named 'Installment Balances Only ($Billions)' by subtracting 'Revolving Balances Only ($Billions)' from 'Total Balances ($Billions)'. I utilized Matplotlib to generate the following graphs: 'Total Balances Over Time,' 'Percentage Change in Total Balances Over Time,' 'Revolving and Installment Balances,' and 'Average Share of Accounts Payment Distribution Over Years.'
 
 **SQL**: I used the DB Browser for SQLite to import my second and third .csv files. After reviewing the files, I identified the need to transfer "Per capita personal income" and "Per capita disposable personal income" information to another file named "Per capita personal consumption expenditures (PCE) by major type of product 1.csv." <br> To achieve this, I performed updates on the LineCode values for the relevant rows in the "State annual summary statistics personal income, GDP, consumer spending.csv" file. Subsequently, I inserted this information into the second file. <br> Additionally, I made adjustments such as renaming specific column names and removing records in the "State" column that are not related to U.S. states.
