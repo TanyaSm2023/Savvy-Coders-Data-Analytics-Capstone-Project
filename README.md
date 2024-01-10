@@ -64,7 +64,7 @@ In contrast, Revolving balances show a downward trend during the pandemic but ha
 
 ### Average Share of Accounts Payment Distribution Over Years<br>
 
-Noticed a regular pattern: People who pay the minimum on their credit cards haven't changed much over the years. But there's something interesting happening with those who pay more than the minimum. It looks like some folks who used to pay more have switched to paying the full amount since 2019, and this change keeps going up until 2023.
+Noticed a regular pattern: People who pay the minimum on their credit cards haven't changed much over the years. But there's something interesting happening with those who pay more than the minimum. It looks like some folks who used to pay more have switched to paying the full amount since 2019, and this change keeps going up until 2023.<br>
 This got me curious about why this shift is happening – is it because of a change in people's habits or something else? To understand this better, I'm going to delve into 'Per Capita Income vs. Personal Spending by states.' I want to understand how money flows in different states and if there's a connection between how much people make and how much they spend. <br>
 
 ![Alt text](<https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-Capstone-Project/blob/main/Images/4%20Average%20Share%20of%20Accounts%20Payment%20Distribution%20Over%20Years.jpg>)
