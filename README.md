@@ -51,45 +51,45 @@ For categorizing credit balance debt, I created a new column named 'Installment 
 ### Total Balances Over Time
 The debt initially decreased from 700 billion to 550 billion during the pandemic, but from 2021 to 2022, there was an upturn, reaching 640 billion, and exceeding 750 billion by 2023.<br>
 
-![Alt text](<Images/1%20Total%20balance.jpg)>)
+![Alt text](<https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-Capstone-Project/blob/main/Images/1%20Total%20balance.jpg>)
 
-![Alt text](<Images\2 Percentage Change in Total Balances (Q4 Only) Over Time.jpg>)
+![Alt text](<https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-Capstone-Project/blob/main/Images/2%20Percentage%20Change%20in%20Total%20Balances%20(Q4%20Only)%20Over%20Time.jpg>)
 
 ### Revolving and Installment Balances
 
 A gradual increase in Installment Balances from 2012 to 2023, progressing smoothly over the years.<br>
 In contrast, Revolving balances show a downward trend during the pandemic but have been consistently increasing since 2022. This pattern closely aligns with what we observed in the previous picture. 
 
-![Alt text](<Images\3 Revolving and Installment Balances Over Time.jpg>)
+![Alt text](<https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-Capstone-Project/blob/main/Images/3%20Revolving%20and%20Installment%20Balances%20Over%20Time.jpg>)
 
 ### Average Share of Accounts Payment Distribution Over Years<br>
 
 Noticed a regular pattern: People who pay the minimum on their credit cards haven't changed much over the years. But there's something interesting happening with those who pay more than the minimum. It looks like some folks who used to pay more have switched to paying the full amount since 2019, and this change keeps going up until 2023.
 This got me curious about why this shift is happening – is it because of a change in people's habits or something else? To understand this better, I'm going to delve into 'Per Capita Income vs. Personal Spending by states.' I want to understand how money flows in different states and if there's a connection between how much people make and how much they spend. <br>
 
-![Alt text](<Images\4 Average Share of Accounts Payment Distribution Over Years.jpg>)
+![Alt text](<https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-Capstone-Project/blob/main/Images/4%20Average%20Share%20of%20Accounts%20Payment%20Distribution%20Over%20Years.jpg>)
 
 ### Per Capita Income vs. Personal Spending
 
 In 2022, the District of Columbia spent significantly more than it earned. This prompted me to delve deeper and identify which states fall into the category of overspending, where expenses exceed income. <br>
 
-![Alt text](<Images\5 Per Capita Income vs. Personal Spending.jpg>)
+![Alt text](<https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-Capstone-Project/blob/main/Images/5%20Per%20Capita%20Income%20vs.%20Personal%20Spending.jpg>)
 
 ### States Overspending: When Expenses Exceed
 
 States overspending, where expenses exceed income, was observed in seven states: Delaware, District of Columbia, Florida, Hawaii, Maine, Michigan, Vermont, while the majority demonstrated positive balances. 
 This observation leads me to the next phase of exploration, where I will delve into the specifics of people's spending habits.<br>
 
-![Alt text](<Images\6 States Overspending When Expenses Exceed.jpg>)
+![Alt text](<https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-Capstone-Project/blob/main/Images/6%20States%20Overspending%20When%20Expenses%20Exceed.jpg>)
 
 ### Goods and Services Spending Per Capita
 Both categories show sustained growth over the years. <br>
 
-![Alt text](<Images\7 Goods and Services Spending Per Capita.jpg>)
+![Alt text](<https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-Capstone-Project/blob/main/Images/7%20Goods%20and%20Services%20Spending%20Per%20Capita.jpg>)
 
 ### Per Capita Consumer Spending Trends (2012-2022): A Breakdown by Goods Categories
 
-![Alt text](<Images\8 A Breakdown by Goods Categories.jpg>)
+![Alt text](<https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-Capstone-Project/blob/main/Images/8%20A%20Breakdown%20by%20Goods%20Categories.jpg>)
 
 Examining the Goods categories, it's apparent that the pandemic had an impact on all subcategories, causing a temporary decrease. 
 However, certain subcategories, such as "Food and beverages purchased for off-premises consumption," "Other nondurable goods," and "Recreational goods and vehicles," not only weathered the impact but display a consistent upward trend over the years, with a notable rise in the last three years.
@@ -108,7 +108,7 @@ This highlights how changes in prices impact spending behaviors within this cate
 
 ### Per Capita Consumer Spending Trends (2012-2022): A Breakdown by Services Categories
 
-![Alt text](<Images\9 A Breakdown by Services Categories.jpg>)
+![Alt text](<https://github.com/TanyaSm2023/Savvy-Coders-Data-Analytics-Capstone-Project/blob/main/Images/9%20A%20Breakdown%20by%20Services%20Categories.jpg>)
 
 Looking at the spending in the "Food services and accommodations" category, there's something interesting to note. 
 
