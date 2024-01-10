@@ -22,17 +22,17 @@ SAPCE2 Per capita personal consumption expenditures (PCE) by major type of produ
 
 ## Terms
 
-1.	Revolving credit allows borrowing up to a certain limit with flexible repayment, like a credit card.
+1.	**Revolving credit** allows borrowing up to a certain limit with flexible repayment, like a credit card.
 
-2.	Installment credit involves fixed payments over time, as seen in loans like car loans or mortgages.
+2.	**Installment credit** involves fixed payments over time, as seen in loans like car loans or mortgages.
 
-3.	Consumption expenditures refer to the total amount of money spent by households and individuals on goods and services for personal use. These expenditures encompass a wide range of items, including but not limited to:
+3.	**Consumption expenditures** refer to the total amount of money spent by households and individuals on goods and services for personal use. These expenditures encompass a wide range of items, including but not limited to:
 
     -Goods: Physical items that individuals purchase for personal use, such as clothing, electronics, and furniture.
 
     -Services: Non-material items that people pay for, such as healthcare, education, transportation, and leisure activities.
 
-4.	Disposable income refers to the total income that individuals or households have available for spending and saving after taxes have been deducted.
+4.	**Disposable income** refers to the total income that individuals or households have available for spending and saving after taxes have been deducted.
 
 ## Methodology
 
